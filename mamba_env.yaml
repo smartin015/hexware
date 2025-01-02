@@ -1,0 +1,7 @@
+name: cq
+channels:
+  - conda-forge
+  - cadquery
+dependencies:
+  - cadquery
+  - cq-editor=master
